@@ -13,6 +13,8 @@ The Capital Asset Pricing Model, known as CAPM,
 
 <br>
 
+<img src="Rplot.jpeg">
+
 ## Install Packages
 
 The following R libraries will be required:
